@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "987517878800",
+    "project_id": "imageuplord-6efe9",
+    "storage_bucket": "imageuplord-6efe9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987517878800:android:39e5c85e4250f973d90095",
+        "android_client_info": {
+          "package_name": "com.example.image_uplord_and_display"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987517878800-6bffn6lb1hq106qobgnar88jhf65s226.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm2o-aBxuWDO_L9SLxU867LWAyiZ4fxTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987517878800-6bffn6lb1hq106qobgnar88jhf65s226.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
